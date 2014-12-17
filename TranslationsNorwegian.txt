@@ -1,0 +1,259 @@
+APT:DisconnectRules
+"en eller flere spillere har koblet fra spillet \n Spillerne kan komme tilbake til spillet, men det er mulig at \n spillerne prøver å unngå normal seier/tap rangering \n hvis du vil sende en klage, trykk på 'report cheaters' linken ved spillets rangerings nettside"
+End
+
+APT:ESRBNotice
+"T3A:Online, en spiller lagd Kampen om Midgard server, sjekk online.the3rdage.net for flere nyheter og mer."
+End
+
+APT:OfficialSite
+"Support forumer"
+End
+
+APT:OnlineEAAccountName
+"Revora Brukernavn"
+End
+
+APT:Password
+"T3A:Online passord"
+End
+
+APT:ServiceTerms
+"OFFISIELL NETTSIDE"
+End
+
+Color:Pink
+"Rosa"
+End
+
+CONTROLBAR:ConstructCamp
+"(&C)Leir"
+End
+
+CONTROLBAR:ConstructCastle
+"(&C)Borg"
+End
+
+CONTROLBAR:ConstructOutpost
+"(&C)Utpost"
+End
+
+CONTROLBAR:EyeofSauron
+"Saurons øye"
+End
+
+CONTROLBAR:GandalfTheWhiteRecruit
+"Helt enhet. \n Rekrutter en magiker utrustet med mektige magiske krefter \n 10 Kommando poeng"
+End
+
+CONTROLBAR:GondorAragornRecruit
+"Helt enhet. \n Rekrutter arvingen til Gondors trone \n 5 Kommando poeng"
+End
+
+CONTROLBAR:GuardUnit
+"Guard &Unit"
+End
+
+CONTROLBAR:RohanGimliRecruit
+"Helt enhet. \n Rekrutter dvergen fra Ensomhetsfjellene \n 5 Kommando poeng"
+End
+
+CONTROLBAR:RohanLegolasRecruit
+"Helt enhet. \n Rekrutter prinsen av Myrkskog alvene \n 5 Kommando poeng"
+End
+
+CONTROLBAR:ToolTipEyeofSauron
+"Røper usynlige fiender \n +50% Skade +100% Erfaring \n Venstre klikk deretter høyreklikk på målet "
+End
+
+CONTROLBAR:ToolTipGuardUnit
+"Beskytt en annen enhet"
+End
+
+SUBTITLE:MTutori_GonO060
+"*Å angripe murer og porter fungerer på samme måte..."
+End
+
+SUBTITLE:MTutori_GonO079
+"*Noen Helter har passive evner som ikke trenger å bli trykket på, som Aragorns lederskap evne"
+End
+
+SUBTITLE:MTutori_GonO120
+"*Disse troppene vil bli overført til senere oppdrag"
+End
+
+SUBTITLE:MTutori_GonO124
+"for å skifte en enhets formasjon, venstreklikk på formasjons knappen"
+End
+
+SUBTITLE:opening_14
+"*- for å ødellege det frie folk av Midgard."
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/Login/OfficialSite/ButtonClip
+"Gå til T3A:onlines support forumer på Revora"
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/Login/Register/ButtonClip
+"Du må ha registrert deg på Revora for å bruke T3A:Online"
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/Login/ServiceTerms/ButtonClip
+"Gå på nettsiden til T3A:Online for nyheter og instruksjoner"
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineEAAccountName
+"Registrer brukeren din på Revora. Fyll dette feltet med ditt nye brukernavn"
+End
+
+TOOLTIP:OnlineShell/OnlineLogin/tooltipOnlineNickname
+"Kallenavn er tegn sensitivt. Aldri begynn navnet med - eller tall. Lovlige symboler er {}[]'-|_ og ^"
+End
+
+URL:LotrHome
+"http://forums.revora.net/forum/2671-t3aonline-support-and-talk/"
+End
+
+URL:LotrLadder
+"http://online.the3rdage.net/"
+End
+
+URL:LotrTOS
+"http://online.the3rdage.net/"
+End
+
+Version:Format2
+"Versjon T3A 1.06"
+END
+
+Color:White
+"Hvit"
+End
+
+Map:MAPMPAndrast
+"Andrast"
+End
+
+Map:MAPMPAndrast/Desc
+"Sørøst grensen til Gondor imellom bukten av Belfalas og det Store Havet. Laget av: Rimli \n Maks spillere:2 \n Start posisjoner: Borger \n Ekspansjons punkter: 2 \n Bosetninger: 8 \ Huler: Warg)"
+End
+
+Map:MAPMPCarnen
+"Carnen"
+End
+
+Map:MAPMPCarnen/Desc
+"Carnen renner ned fra Jernhøene. Den er kjent som det røde vanner, siden jernet fra fjellene gir vannet et rødt skjær. Laget av: m@tt \n Maks spillere: 2 \n Start posisjoner: Borger \n Ekspansjons punkter: 2 \n Bosetninger: 8 \n Huler: Tusser og Warg"
+End
+
+Map:MAPMPCarrock
+"Carrock"
+End
+
+Map:MAPMPCarrock/Desc
+"En stor kampestein reiser seg opp fra Anduin, Den fikk navnet Carrock av Beorn som hogde ut dens trapper. Laget av: BadMadMax \n Maks spillere: 2 \n Start posisjoner: Borger \n Eskpansjons punkter: 2 \n Bosetninger: 9 \n Huler: Troll, Tusser og Warg"
+End
+
+Map:MAPMPDesolationOfSmaug
+"Smaugs ødemark"
+End
+
+Map:MAPMPDesolationOfSmaug/Desc
+"Denne ufruktbare ødemarken var laget av dragen Smaug, som ødela landskapet rundt Ensomhetsfjellene. Laget av: _Haldir_ \n Maks spillere: 5 \n Start posisjoner: Leir \n Ekspansjons punkter: 5 \n Bosetninger: 15 \n Huler: Troll og Tusser"
+End
+
+Map:MAPMPDimrillDale
+"Dimrill Dale"
+End
+
+Map:MAPMPDimrillDale/Desc
+"På utsiden av Morias østport ligger denne steinete men skogbefestede dalen som omringer Mirrormere. Laget av: m@att \n Maks spillere: 6 \n Start posisjoner: Borger \n Bosetninger: 18 \n Huler: Troll, Tusser og Warg"
+End
+
+Map:MAPMPDruwaithIaurWE
+"Drúwaith Iaur WE"
+End
+
+Map:MAPMPDruwaithIaurWE/Desc
+"Disse dalene, ligger vest for Gondor, og er hjemmet til de mysteriske Drúedain. \n Maks spillere: 2 \n Start posisjoner: Borger \n Ekspansjons punkter: 3 \n Bosetninger: 8 \n Huler: Troll og Warg"
+End
+
+Map:MAPMPDunland
+"Dunland"
+End
+
+Map:MAPMPDunland/Desc
+"vest for tåkefjellene ligger Dunland, en fjellete region med et krigersk folk under innflytelse av Jarnagard. Laget av: _Haldir_ \n Maks spillere: 7 \n Start posisjoner: Leirer \n Ekspansjons punkter: 3 \n Bosetninger: 7 \n Huler: Troll og Warg"
+End
+
+Map:MAPMPEregion
+"Eregion"
+End
+
+Map:MAPMPEregion/Desc
+"Det som engang var hjemmet til alvene som laget Rings of power, Eregion har siden blitt overgrodd og øde. Laget av: Lex Flores \n Maks spillere: 4 \n Start Posisjoner: Leirer og Borger \n Bosetninger: 10 \n Huler: Tusser og Warg"
+End
+
+Map:MAPMPFordsOfBruinen
+"Fords of Bruinen"
+End
+
+Map:MAPMPFordsOfBruinen/Desc
+"Bruinen flyter ned fra Tåkefjellene og omgir alvenes tilfluktssted; Kløvendal. Laget av: m@tt \n Maks spillere: 4 \n Start posisjoner: Borger \n Ekspansjons punkter: 4 \n Bosetninger: 4 \n Huler: Troll og Tusser"
+End
+
+Map:MAPMPIronHills
+"Jernhøene"
+End
+
+Map:MAPMPIronHills/Desc
+"Jernhøene er opphavet til det røde vannet som grenser til det østre landet Rhun. Laget av: _Haldir_ \n Maks spillere: 3 \n Start posisjoner: Leirer \n Ekspansjons punkter: 1 \n Bosetninger: 9 \n Huler: Troll og Tusser"
+End
+
+Map:MAPMPLamedon
+"Lamedon"
+End
+
+Map:MAPMPLamedon/Desc
+"En  delvis fjellete region litt sør for De Hvite Fjellene. Laget av: TheFoeHammer \n Maks spillere: 8 \n Start posisjoner: Borger \n Ekspansjons punkter: 4 \n Bosetninger: 16 \n Huler: Troll, Tusser og Warg"
+End
+
+Map:MAPMPLossarnach
+"Lossarnach"
+End
+
+Map:MAPMPLossarnach/Desc
+"En av Gondors sør-beliggende landområder, Lossanarch ligger innenfor dalen av De Hvite Fjellene. Dets frodige grassletter er fylt med blomster. Laget av: _Haldir_ \n Maks spillere: 6 \n Start Posisjoner: Leirer \n Ekspansjons punkter: 2 \n Bosetninger: 16 \n Huler: Tusser og Warg"
+End
+
+Map:MAPMPMinhiriath
+"Minhiriath"
+End
+
+Map:MAPMPMinhiriath/Desc
+"Minhiriath Ligger mellom Greyflood og Brandywine elvene, i regionen Eriador. Engang befolket, men har siden gått i ruiner. Laget av: _Haldir_ \n Maks spillere: 7 \n Start Posisjoner: Borger \n Ekspansjons punkter: 2 \n Bosetninger: 21 \n Huler: Troll og Warg"
+End
+
+Map:MAPMPOldFordOfAnduin
+"Old Ford of Anduin"
+End
+
+Map:MAPMPOldFordOfAnduin/Desc
+"Anduin renner mellom Tåkefjellene og Myrkskog, og Vadestedet er en del av den gamle skogsveien. Laget av: m@tt \n Maks spillere: 4 \n Star posisjoner: Borger \n Ekspansjons punkter: 2 \n Bosetninger: 16 \n Huler: Tusser og Warg"
+End
+
+Map:MAPMPSouthRhun
+"South Rhun"
+End
+
+Map:MAPMPSouthRhun/Desc
+"Wainriders av Rhûn kom for åbli i disse støvete landene og lagde allianser med Khand av Harad. Laget av: Dennis Agodzo \n Maks spillere: 6 \n Start posisjoner: Leirer \n Ekspansjons punkter: 2 \n Bosetninger: 10 \n Huler: Troll og Tusser"
+End
+
+Map:MAPMPTharbad
+"Tharbad"
+End
+
+Map:MAPMPTharbad/Desc
+"Den gamle sør veien passerer igjennom det gamle landet Tharbad, ruinene av den en gang storslåtte broen er nå et farlig vadested.Laget av: _Haldir_ \n Maks spillere: 3 \n Start Posisjoner: Borger \n Ekspansjons punkter: 1 \n Bosetninger: 15 \n Huler: Troll og Tusser"
+End
