@@ -135,7 +135,7 @@ Map:MAPMPAndrast
 End
 
 Map:MAPMPAndrast/Desc
-"Sørøst grensen til Gondor imellom bukten av Belfalas og det Store Havet. Laget av: Rimli \n Maks spillere:2 \n Start posisjoner: Borger \n Ekspansjons punkter: 2 \n Bosetninger: 8 \ Huler: Warg)"
+"Sørøst grensen til Gondor imellom bukten av Belfalas og det Store Havet. Laget av: Rimli \n Maks spillere:2 \n Start posisjoner: Borger \n Ekspansjons punkter: 2 \n Bosetninger: 8 \n Huler: Warg"
 End
 
 Map:MAPMPCarnen
@@ -163,7 +163,7 @@ Map:MAPMPDesolationOfSmaug/Desc
 End
 
 Map:MAPMPDimrillDale
-"Dimrill Dale"
+"Dimrill Dal"
 End
 
 Map:MAPMPDimrillDale/Desc
@@ -195,7 +195,7 @@ Map:MAPMPEregion/Desc
 End
 
 Map:MAPMPFordsOfBruinen
-"Fords of Bruinen"
+"Vadestedet ved Bruinen"
 End
 
 Map:MAPMPFordsOfBruinen/Desc
@@ -235,7 +235,7 @@ Map:MAPMPMinhiriath/Desc
 End
 
 Map:MAPMPOldFordOfAnduin
-"Old Ford of Anduin"
+"Gamle vadestedet ved Anduin"
 End
 
 Map:MAPMPOldFordOfAnduin/Desc
@@ -243,11 +243,11 @@ Map:MAPMPOldFordOfAnduin/Desc
 End
 
 Map:MAPMPSouthRhun
-"South Rhun"
+"Sør Rhun"
 End
 
 Map:MAPMPSouthRhun/Desc
-"Wainriders av Rhûn kom for åbli i disse støvete landene og lagde allianser med Khand av Harad. Laget av: Dennis Agodzo \n Maks spillere: 6 \n Start posisjoner: Leirer \n Ekspansjons punkter: 2 \n Bosetninger: 10 \n Huler: Troll og Tusser"
+"Wainriders av Rhûn kom for å bli i disse støvete landene og lagde allianser med Khand av Harad. Laget av: Dennis Agodzo \n Maks spillere: 6 \n Start posisjoner: Leirer \n Ekspansjons punkter: 2 \n Bosetninger: 10 \n Huler: Troll og Tusser"
 End
 
 Map:MAPMPTharbad
@@ -255,5 +255,5 @@ Map:MAPMPTharbad
 End
 
 Map:MAPMPTharbad/Desc
-"Den gamle sør veien passerer igjennom det gamle landet Tharbad, ruinene av den en gang storslåtte broen er nå et farlig vadested.Laget av: _Haldir_ \n Maks spillere: 3 \n Start Posisjoner: Borger \n Ekspansjons punkter: 1 \n Bosetninger: 15 \n Huler: Troll og Tusser"
+"Den gamle sør-veien passerer igjennom det gamle landet Tharbad, ruinene av den en gang storslåtte broen er nå et farlig vadested. Laget av: _Haldir_ \n Maks spillere: 3 \n Start Posisjoner: Borger \n Ekspansjons punkter: 1 \n Bosetninger: 15 \n Huler: Troll og Tusser"
 End
